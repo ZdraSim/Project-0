@@ -157,3 +157,75 @@ footer a {
     background: #f8f9fa;
     padding: 10px 25px;
 }
+
+
+/* Advanced search */
+
+.navBar {}
+
+.formAdvanced {
+    margin: 40px 2% 0 45px
+}
+
+.formAdvanced input {
+    width: 1200px;
+    min-width: 700px;
+    height: 25px;
+}
+
+.formAdvanced p {
+    font-size: 11px;
+}
+
+.firstP {
+    font-size: 13px;
+    min-width: 30%;
+}
+
+.secondP {
+    color: #555555;
+    min-width: 55%;
+}
+
+.formAdvanced .firstPH {
+    font-size: 16px;
+}
+
+.formAdvanced .secondPH {
+    font-size: 13px;
+    font-weight: bold;
+    color: #777777;
+}
+
+.formHeaders {
+    display: flex;
+    justify-content: space-between;
+}
+
+.also {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputDivision {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.inputDivision+.twoInputs input {
+    min-width: 332px;
+}
+
+
+.formFirst {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.formSecond {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
