@@ -1,1 +1,1 @@
-Test
+In this initial commit I have finished the main Google Search, Google Images and the CSS file.
